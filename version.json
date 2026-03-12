@@ -1,7 +1,27 @@
 {
   "en": {
-    "date": "2026-03-10",
-    "commit": "aef4182",
-    "label": "Erster Übersetzungstest"
+    "date": "2026-03-12",
+    "commit": "5a11d6c",
+    "label": "Neue Version"
+  },
+  "es": {
+    "date": "2026-03-12",
+    "commit": "5a11d6c",
+    "label": "Neue Version"
+  },
+  "pt": {
+    "date": "2026-03-12",
+    "commit": "5a11d6c",
+    "label": "Neue Version"
+  },
+  "fr": {
+    "date": "2026-03-12",
+    "commit": "5a11d6c",
+    "label": "Neue Version"
+  },
+  "ru": {
+    "date": "2026-03-12",
+    "commit": "5a11d6c",
+    "label": "Neue Version"
   }
 }
